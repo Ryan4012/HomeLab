@@ -17,6 +17,7 @@ The main reasons I started this project were to develop practical skills in syst
   - 2x8GB DDR4 3000MHz RAM
   - 240GB SATA SSD
   - WiFi Card
+  - **Dell Mini Optiplex 7050 7th Gen**
 
 - **Operating System** –
   - Proxmox (host OS)
@@ -30,6 +31,8 @@ The main reasons I started this project were to develop practical skills in syst
   - Docker
  
 - **Networking** –
+  - Gl iNet OpenWRT Router
+  - Netgear Smart Managed 8 port Switch
   - Raspberry Pi 5 (router and network manager)
   - Tailscale VPN Mesh
   - Pi-Hole (DNS filtering) 
