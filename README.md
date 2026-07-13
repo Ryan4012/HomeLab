@@ -44,7 +44,7 @@ The main reasons I started this project were to develop practical skills in syst
 ## Architecture Overview
 **Hardware Overview**
 
-The Intel i5 CPU with 6 cores and 12 threads is allocated among my VMs to maximize performance. The GTX 1070 GPU is passed through to a VM via PCI-e passthrough for GPU-intensive tasks. Similarly, the WiFi card is passed through to the Kali Linux VM for wireless security testing. The 16GB RAM is shared across the VMs, and the 240GB SSD stores the OS and VM data.
+The Intel i5 CPU with 6 cores and 6 threads is allocated among my VMs to maximize performance. The GTX 1070 GPU is passed through to a VM via PCI-e passthrough for GPU-intensive tasks. Similarly, the WiFi card is passed through to the Kali Linux VM for wireless security testing. The 16GB RAM is shared across the VMs, and the 240GB SSD stores the OS and VM data.
 
 **Virtualization & Containerization Approach**
 
