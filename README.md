@@ -31,7 +31,7 @@ The main reasons I started this project were to develop practical skills in syst
   - Docker
  
 - **Networking** –
-  - Gl iNet OpenWRT Router
+  - GL.iNet OpenWRT Router
   - Netgear Smart Managed 8 port Switch
   - Raspberry Pi 5 (router and network manager)
   - Tailscale VPN Mesh
