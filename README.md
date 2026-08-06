@@ -1,4 +1,4 @@
-# Home Server
+# Home Lab Environment
 A personal home server built to explore self-hosting, infrastructure, networking, and automation.
 
 ## Overview
