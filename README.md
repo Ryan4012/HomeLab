@@ -241,7 +241,6 @@ Short-Term
 
 Medium-Term
 - Build a Proxmox cluster
-- Deploy NAS storage
 - Add centralized logging
 - Implement automated backups
 
