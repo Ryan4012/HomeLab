@@ -152,11 +152,16 @@ Current and planned workloads:
 <table>
   <tr>
     <th>Architecture</th>
+  </tr>
+  <tr>
+    <td><img src="./Diagrams/Architecture-Diagram.drawio.png" alt="Architecture Diagram" /></td>
+  </tr>
+
+  <tr>
     <th>Network</th>
   </tr>
   <tr>
-    <td><img src="./Diagrams/Architecture-Diagram.png" alt="Architecture Diagram" width="500" /></td>
-    <td><img src="./Diagrams/Network-Diagram.png" alt="Network Diagram" width="500" /></td>
+    <td><img src="./Diagrams/Network-Diagram.drawio.png" alt="Network Diagram" /></td>
   </tr>
 </table>
 
